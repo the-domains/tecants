@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tecants - Sustainable Business Design]]></title>
+        <description><![CDATA[Tecants - Sustainable Business Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Mar 2016 16:40:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b1848b4-8120-40d6-8e30-5761d9690d7b.png">]]></description>
+            <link>undefined0986e558-ff92-4783-bb84-c1a07cb5eee3/index.html</link>
+            <guid isPermaLink="false">0986e558-ff92-4783-bb84-c1a07cb5eee3</guid>
+            <pubDate>Sat, 12 Mar 2016 16:38:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
