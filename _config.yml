@@ -1,7 +1,7 @@
 name: Tecants
 favicon: null
-layout_spectrum: 0.338006607722491
-typography_spectrum: 0.29942332673817873
+layout_spectrum: 0.51534
+typography_spectrum: 0.41245
 title: Tecants - Sustainable Business Design
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#7ac142'
+    - '#515152'
+    - '#878788'
+    - '#ababab'
   brandStrength: 0.45470182597637177
   lightness: 0.7554715741425753
   saturation: 0.695711133768782
